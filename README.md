@@ -310,7 +310,7 @@ section{
 
 <nav>
 
-<div class="logo">SG WEB STUDIO</div>
+<div class="logo">ORVYZA WEB STUDIO</div>
 
 <ul>
 <li><a href="#anasayfa">Ana Sayfa</a></li>

@@ -639,7 +639,7 @@ href="tel:05314008897">
 <a class="phone"
 href="tel:05453682967">
 
-📞 Ömer Dayam
+📞 Ömer Dayan
 <br>
 0545 368 29 67
 
